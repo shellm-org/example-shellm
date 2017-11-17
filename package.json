@@ -1,0 +1,10 @@
+{
+  "name": "shellm-example",
+  "version": "0.0.1",
+  "description": "An example cookiecutter-shellm project template.",
+  "global": "false",
+  "install": "./install.sh ${PREFIX:-/usr/local}",
+  "scripts": [ "bin/shellm-example" ],
+  "files": [ "lib/shellmexample.sh" ],
+  "dependencies": {}
+}
