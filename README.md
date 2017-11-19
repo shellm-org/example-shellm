@@ -14,8 +14,8 @@ Installation can be done through
 [bpkg](https://github.com/bpkg/bpkg), with:
 ```bash
 basher install shellm-org/example-shellm
-bpkg install example-shellm  # local installation
-sudo bpkg install example-shellm -g  # global installation
+bpkg install shellm-org/example-shellm  # local installation
+sudo bpkg install shellm-org/example-shellm -g  # global installation
 ```
 
 Install from source:
